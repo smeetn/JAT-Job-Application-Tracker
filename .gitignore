@@ -1,0 +1,11 @@
+.env
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+data/resume/
+data/candidate/cvs/
+data/candidate/candidate_profile.json
+data/applications/
+data/reports/
+data/job_agent.db
